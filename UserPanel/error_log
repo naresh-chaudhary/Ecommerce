@@ -1,0 +1,93 @@
+[23-Dec-2015 12:19:06 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/poojadmin/public_html/store/dbconnect.php on line 8
+[23-Dec-2015 12:39:07 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/poojadmin/public_html/store/dbconnect.php on line 8
+[23-Dec-2015 12:39:14 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/poojadmin/public_html/store/dbconnect.php on line 8
+[23-Dec-2015 12:39:38 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'poojadmi_codeace'@'111.118.215.174' (using password: YES) in /home/poojadmin/public_html/store/dbconnect.php on line 8
+[23-Dec-2015 12:42:09 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'codeace'@'111.118.215.174' (using password: YES) in /home/poojadmin/public_html/store/dbconnect.php on line 8
+[23-Dec-2015 12:45:23 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'codeace'@'localhost' (using password: YES) in /home/poojadmin/public_html/store/dbconnect.php on line 8
+[23-Dec-2015 12:45:24 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'codeace'@'localhost' (using password: YES) in /home/poojadmin/public_html/store/dbconnect.php on line 8
+[23-Dec-2015 12:45:25 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'codeace'@'localhost' (using password: YES) in /home/poojadmin/public_html/store/dbconnect.php on line 8
+[23-Dec-2015 12:45:26 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'codeace'@'localhost' (using password: YES) in /home/poojadmin/public_html/store/dbconnect.php on line 8
+[23-Dec-2015 13:13:47 Etc/GMT] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home/poojadmin/public_html/store/middleheader.php on line 43
+[23-Dec-2015 13:13:49 Etc/GMT] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home/poojadmin/public_html/store/middleheader.php on line 43
+[23-Dec-2015 13:13:50 Etc/GMT] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home/poojadmin/public_html/store/middleheader.php on line 43
+[23-Dec-2015 13:14:38 Etc/GMT] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home/poojadmin/public_html/store/middleheader.php on line 43
+[23-Dec-2015 13:14:44 Etc/GMT] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home/poojadmin/public_html/store/middleheader.php on line 43
+[23-Dec-2015 13:14:53 Etc/GMT] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home/poojadmin/public_html/store/middleheader.php on line 43
+[23-Dec-2015 13:15:01 Etc/GMT] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home/poojadmin/public_html/store/middleheader.php on line 43
+[23-Dec-2015 13:16:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '!' in /home/poojadmin/public_html/store/middleheader.php on line 43
+[23-Dec-2015 13:16:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '!' in /home/poojadmin/public_html/store/middleheader.php on line 43
+[23-Dec-2015 13:19:12 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 13:20:07 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 13:20:10 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/poojadmin/public_html/store/logout.php on line 5
+[23-Dec-2015 13:21:23 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 13:21:39 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 13:21:42 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 13:22:49 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 13:23:21 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 13:34:07 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 13:34:12 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 13:34:19 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 13:42:41 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 13:42:45 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 13:42:58 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 13:43:02 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 13:43:06 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 13:56:10 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 14:13:11 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 14:15:56 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 14:19:42 Etc/GMT] PHP Notice:  Undefined index: userdetails in /home/poojadmin/public_html/store/login.php on line 17
+[23-Dec-2015 14:21:44 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 14:53:32 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 14:53:40 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 14:53:55 Etc/GMT] PHP Notice:  Undefined index: userdetails in /home/poojadmin/public_html/store/login.php on line 17
+[23-Dec-2015 14:53:56 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 14:54:41 Etc/GMT] PHP Notice:  Undefined index: userdetails in /home/poojadmin/public_html/store/login.php on line 17
+[23-Dec-2015 14:54:42 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 14:54:47 Etc/GMT] PHP Notice:  Undefined index: userdetails in /home/poojadmin/public_html/store/login.php on line 17
+[23-Dec-2015 14:54:48 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 14:54:51 Etc/GMT] PHP Notice:  Undefined index: userdetails in /home/poojadmin/public_html/store/login.php on line 17
+[23-Dec-2015 14:54:52 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 14:54:57 Etc/GMT] PHP Notice:  Undefined index: userdetails in /home/poojadmin/public_html/store/login.php on line 17
+[23-Dec-2015 14:54:58 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 14:55:12 Etc/GMT] PHP Notice:  Undefined index: userdetails in /home/poojadmin/public_html/store/login.php on line 17
+[23-Dec-2015 14:55:13 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 16:44:40 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 16:45:52 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 16:45:56 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 16:47:29 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 16:47:34 Etc/GMT] PHP Notice:  Undefined index: userdetails in /home/poojadmin/public_html/store/login.php on line 17
+[23-Dec-2015 16:47:35 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 16:47:36 Etc/GMT] PHP Notice:  Undefined index: userdetails in /home/poojadmin/public_html/store/login.php on line 17
+[23-Dec-2015 16:47:37 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 16:47:38 Etc/GMT] PHP Notice:  Undefined index: userdetails in /home/poojadmin/public_html/store/login.php on line 17
+[23-Dec-2015 16:47:38 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 16:47:40 Etc/GMT] PHP Notice:  Undefined index: userdetails in /home/poojadmin/public_html/store/login.php on line 17
+[23-Dec-2015 16:50:19 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 16:54:11 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 17:10:25 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[23-Dec-2015 17:10:28 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 10:58:16 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 10:58:23 Etc/GMT] PHP Notice:  Undefined index: userdetails in /home/poojadmin/public_html/store/login.php on line 17
+[24-Dec-2015 10:58:32 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 10:59:08 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 10:59:23 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 10:59:50 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:00:00 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:00:14 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:00:15 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:00:16 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:00:16 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:00:17 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:00:17 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:00:18 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:00:29 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:00:30 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:00:34 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:00:36 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:01:11 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:01:28 Etc/GMT] PHP Notice:  Undefined index: userdetails in /home/poojadmin/public_html/store/login.php on line 17
+[24-Dec-2015 11:02:18 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:10:40 Etc/GMT] PHP Notice:  Undefined index: userdetails in /home/poojadmin/public_html/store/login.php on line 17
+[24-Dec-2015 11:13:17 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:18:14 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
+[24-Dec-2015 11:22:45 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/poojadmin/public_html/store/middleheader.php on line 42
