@@ -6,7 +6,7 @@ include('queries.php');
 <html>
     <head>
 		<meta charset="UTF-8">
-		<title>Tisa Admin Template v1.1 (ecommerce_product_edit)</title>
+		<title>Add</title>
 		<meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
 		
 		<link rel="shortcut icon" href="favicon.ico" />
